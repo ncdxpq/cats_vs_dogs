@@ -1,0 +1,2 @@
+model_checkpoint_path: "network-dqn-600000"
+
